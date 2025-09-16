@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Header Banner"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"width="600" />
 </div>
 <br/>
 
@@ -194,7 +194,7 @@ My continuous learning journey in technology and software development.
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ayushnarware/ayushnarware/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/ayushnarware/ayushnarware/blob/main/dist/github-contribution-grid-snake.svg)
 ## 📬 Get In Touch
 
 Got a question, an idea, or a project you'd like to discuss? My inbox is always open!
