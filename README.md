@@ -31,42 +31,63 @@
 
 A comprehensive toolkit for building modern, scalable applications.
 
-<table>
+
+<table width="100>
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h4>Languages</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=java,python,js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
       </p>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h4>Frameworks & Libraries</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,tailwind,django,hibernate" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo" />
       </p>
     </td>
-    <td valign="top" width="25%">
-      <h4>Cloud & DevOps</h4>
+    <td valign="top" >
+      <h4>Cloud & DevOps          </h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,git,github" />
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="25%">
+      <td valign="top" >
       <h4>Databases</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,oracle" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
       </p>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top" >
       <h4>Testing & Tools</h4>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=junit,selenium,postman,jira,idea,vscode" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
+        <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
       </p>
     </td>
-    <td valign="top" width="50%">
-      </td>
   </tr>
 </table>
 
