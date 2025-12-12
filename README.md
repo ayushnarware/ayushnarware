@@ -80,35 +80,40 @@
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Academic Projects
+
+Real-world applications built with modern technologies and best practices.
 
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
       <h3>🍔 Online Food Ordering Application</h3>
-      <p>A comprehensive full-stack platform for food delivery, featuring role-based access control (Admin/User), real-time menu management, and order tracking.</p>
+      <p>A scalable full-stack e-commerce platform with real-time tracking. Features include user authentication, product browsing, cart management, order processing, and admin dashboard.</p>
       <br/>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
       </p>
       <br/>
       <a href="https://ayushnarware.github.io/OnlineFood/">
-        <img src="https://img.shields.io/badge/View_Demo-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo">
+        <img src="https://img.shields.io/badge/View_Live-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live">
       </a>
       <a href="https://github.com/ayushnarware/OnlineFood">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
       </a>
     </td>
-   <td width="45%" valign="center" align="center">
-    <a href="https://ayushnarware.github.io/OnlineFood/" target="_blank">
-    <img src="https://ayushnarware.github.io/Ayush-Portfolio/assets/food-ordering-project-BENmTGsD.png" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="Click to Use Live App">
-    </a>
-    <br/>
-    <sub style="color: #00BFFF;">👆 Click to run Live App</sub>
-</td>
+    <td width="45%" valign="center" align="center">
+      <a href="https://ayushnarware.github.io/OnlineFood/" target="_blank">
+        <img src="https://ayushnarware.github.io/Ayush-Portfolio/assets/food-ordering-project-BENmTGsD.png" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="Click to Use Live App">
+      </a>
+      <br/>
+      <sub style="color: #00BFFF;">👆 Click to run Live App</sub>
+    </td>
   </tr>
 </table>
 
@@ -117,33 +122,64 @@
 <table width="100%">
   <tr>
     <td width="45%" valign="center" align="center">
-  <a href="https://ayushnarware.github.io/OnlineFood/" target="_blank">
-    <img src="https://ayushnarware.github.io/Ayush-Portfolio/assets/livepixe-project-BaH99bYI.png" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="Click to Use Live App">
-  </a>
-  <br/>
-  <sub style="color: #00BFFF;">👆 Click GIF to run Live App</sub>
-</td>
+      <a href="https://ayushnarware.github.io/LivePixe/" target="_blank">
+        <img src="https://ayushnarware.github.io/Ayush-Portfolio/assets/livepixe-project-BaH99bYI.png" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="Click to Use Live App">
+      </a>
+      <br/>
+      <sub style="color: #00BFFF;">👆 Click to run Live App</sub>
+    </td>
     <td width="55%" valign="top">
-      <h3>🖼️ LivePixel - Interactive Photo Album</h3>
-      <p>An immersive image discovery platform allowing users to search, view, and download high-quality images via API integration. Optimized for performance and responsiveness.</p>
+      <h3>🖼️ LivePixel - Media Platform</h3>
+      <p>High-performance media management system with optimized API caching. Features include photo/video upload, categorization, search, and user interaction functionalities.</p>
       <br/>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+        <img src="https://img.shields.io/badge/API_Integration-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API"/>
+        <img src="https://img.shields.io/badge/Cloud_Storage-326CE5?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud"/>
+        <img src="https://img.shields.io/badge/Responsive-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Responsive"/>
       </p>
       <br/>
       <a href="https://ayushnarware.github.io/LivePixe/">
-        <img src="https://img.shields.io/badge/View_Demo-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo">
+        <img src="https://img.shields.io/badge/View_Live-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live">
       </a>
       <a href="https://github.com/ayushnarware/LivePixel">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
       </a>
     </td>
   </tr>
 </table>
 
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🎨 UI Component Library</h3>
+      <p>A modular design system providing reusable UI components for rapid development. Built with accessibility and customization in mind, ensuring consistency across web applications.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Accessibility-00599C?style=flat-square&logo=c&logoColor=white" alt="A11y"/>
+      </p>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View_Live-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+      </a>
+    </td>
+    <td width="45%" valign="center" align="center">
+      <a href="#" target="_blank">
+        <img src="https://media.giphy.com/media/26tn33ai01UfXXad2/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="UI Lib Preview">
+      </a>
+      <br/>
+      <sub style="color: #00BFFF;">👆 Click to run Live App</sub>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <a href="https://github.com/ayushnarware?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="See More">
