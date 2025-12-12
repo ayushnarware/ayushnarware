@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif" />
   
-  <br/><br/>
+  <br/>
 
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ayush+Narware;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -173,7 +173,7 @@ Real-world applications built with modern technologies and best practices.
     </td>
     <td width="45%" valign="center" align="center">
       <a href="#" target="_blank">
-        <img src="https://media.giphy.com/media/26tn33ai01UfXXad2/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="UI Lib Preview">
+        <img src="https://github.com/ayushnarware/Ayush-Portfolio/blob/main/src/assets/image.png?raw=true" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="UI Lib Preview">
       </a>
       <br/>
       <sub style="color: #00BFFF;">👆 Click to run Live App</sub>
