@@ -177,14 +177,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushnarware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2&count_private=true" height="150" alt="Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushnarware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" height="150" alt="Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnarware&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" height="150" alt="Languages" />
 
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushnarware&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=8A2BE2&fire=FF7F50&currStreakLabel=00BFFF" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayushnarware&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=8A2BE2&fire=FF7F50&currStreakLabel=00BFFF" alt="Streak" />
 
   <br/><br/>
 
