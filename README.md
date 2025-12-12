@@ -102,9 +102,13 @@
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source">
       </a>
     </td>
-    <td width="45%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif" width="100%" style="border-radius: 10px;" alt="Food App Preview">
-    </td>
+   <td width="45%" valign="center" align="center">
+    <a href="https://ayushnarware.github.io/OnlineFood/" target="_blank">
+    <img src="https://ayushnarware.github.io/Ayush-Portfolio/assets/food-ordering-project-BENmTGsD.png" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="Click to Use Live App">
+    </a>
+    <br/>
+    <sub style="color: #00BFFF;">👆 Click to run Live App</sub>
+</td>
   </tr>
 </table>
 
@@ -113,8 +117,12 @@
 <table width="100%">
   <tr>
     <td width="45%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/1d5YDhg32c7i83G3M6/giphy.gif" width="100%" style="border-radius: 10px;" alt="Photo App Preview">
-    </td>
+  <a href="https://ayushnarware.github.io/OnlineFood/" target="_blank">
+    <img src="https://ayushnarware.github.io/Ayush-Portfolio/assets/livepixe-project-BaH99bYI.png" width="100%" style="border-radius: 10px; border: 2px solid #00BFFF;" alt="Click to Use Live App">
+  </a>
+  <br/>
+  <sub style="color: #00BFFF;">👆 Click GIF to run Live App</sub>
+</td>
     <td width="55%" valign="top">
       <h3>🖼️ LivePixel - Interactive Photo Album</h3>
       <p>An immersive image discovery platform allowing users to search, view, and download high-quality images via API integration. Optimized for performance and responsiveness.</p>
